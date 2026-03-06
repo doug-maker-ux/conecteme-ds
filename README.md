@@ -5,7 +5,7 @@ Design System do sistema ConecteMe
 Design System do sistema ConecteMe — tokens, componentes e estilos compartilhados.
 
 ## Estrutura
-
+```bash
 src/ 
 ├── design-system/ ← Componentes React + CSS do DS 
 │ ├── components/ ← Button, Input, Typography, Icon... 
@@ -20,7 +20,6 @@ src/
 Os tokens são exportados do **Tokens Studio** (Figma) via **Luckino** e salvos em `src/tokens/json/`.
 O script converte esses JSONs em CSS Custom Properties:
 
-```bash
 pnpm build:tokens
 Hierarquia
 Primitivos	→	Semânticos	→	CSS gerado
