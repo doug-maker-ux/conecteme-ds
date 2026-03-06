@@ -1,0 +1,8 @@
+{
+  "icon": {
+    "isFilled": {
+      "$value": true,
+      "$type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "12": {
+    "$value": "{_color primitives.alpha.black.elevation.12}",
+    "$type": "color"
+  },
+  "14": {
+    "$value": "{_color primitives.alpha.black.elevation.14}",
+    "$type": "color"
+  },
+  "16": {
+    "$value": "{_color primitives.alpha.black.elevation.16}",
+    "$type": "color"
+  },
+  "20": {
+    "$value": "{_color primitives.alpha.black.elevation.20}",
+    "$type": "color"
+  },
+  "24": {
+    "$value": "{_color primitives.alpha.black.elevation.24}",
+    "$type": "color"
+  },
+  "04": {
+    "$value": "{_color primitives.alpha.black.elevation.04}",
+    "$type": "color"
+  },
+  "08": {
+    "$value": "{_color primitives.alpha.black.elevation.08}",
+    "$type": "color"
+  }
+}

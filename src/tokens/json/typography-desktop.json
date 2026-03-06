@@ -1,0 +1,138 @@
+{
+  "Primary": {
+    "$value": "DM Sans",
+    "$type": "fontFamily"
+  },
+  "fontWeightLight": {
+    "$value": 300,
+    "$type": "fontWeight"
+  },
+  "fontWeightRegular": {
+    "$value": 400,
+    "$type": "fontWeight"
+  },
+  "fontWeightMedium": {
+    "$value": 500,
+    "$type": "fontWeight"
+  },
+  "fontWeightSemiBold": {
+    "$value": 600,
+    "$type": "fontWeight"
+  },
+  "fontWeightBold": {
+    "$value": 700,
+    "$type": "fontWeight"
+  },
+  "typography": {
+    "hero": {
+      "$value": "{_typography._fontSize.2,250}",
+      "$type": "fontSize"
+    },
+    "h1": {
+      "$value": "{_typography._fontSize.2rem}",
+      "$type": "fontSize"
+    },
+    "h2": {
+      "$value": "{_typography._fontSize.1,875rem}",
+      "$type": "fontSize"
+    },
+    "h3": {
+      "$value": "{_typography._fontSize.1,5rem}",
+      "$type": "fontSize"
+    },
+    "paragraph-xlg": {
+      "$value": "{_typography._fontSize.1,25rem}",
+      "$type": "fontSize"
+    },
+    "paragraph-lg": {
+      "$value": "{_typography._fontSize.1,125rem}",
+      "$type": "fontSize"
+    },
+    "paragraph-md": {
+      "$value": "{_typography._fontSize.1rem}",
+      "$type": "fontSize"
+    },
+    "paragraph-sm": {
+      "$value": "{_typography._fontSize.0,875rem}",
+      "$type": "fontSize"
+    },
+    "button-lg": {
+      "$value": "{_typography._fontSize.0,9375rem}",
+      "$type": "fontSize"
+    },
+    "button-md": {
+      "$value": "{_typography._fontSize.0,875rem}",
+      "$type": "fontSize"
+    },
+    "button-sm": {
+      "$value": "{_typography._fontSize.0,8125rem}",
+      "$type": "fontSize"
+    },
+    "chip-lg": {
+      "$value": "{_typography._fontSize.0,875rem}",
+      "$type": "fontSize"
+    },
+    "chip-sm": {
+      "$value": "{_typography._fontSize.0,8125rem}",
+      "$type": "fontSize"
+    },
+    "caption": {
+      "$value": "{_typography._fontSize.0,75rem}",
+      "$type": "fontSize"
+    },
+    "overline": {
+      "$value": "{_typography._fontSize.0,75rem}",
+      "$type": "fontSize"
+    }
+  },
+  "-fontSize": {
+    "0-625rem": {
+      "$value": 10,
+      "$type": "fontSize"
+    },
+    "0-75rem": {
+      "$value": 12,
+      "$type": "fontSize"
+    },
+    "0-8125rem": {
+      "$value": 13,
+      "$type": "fontSize"
+    },
+    "0-875rem": {
+      "$value": 14,
+      "$type": "fontSize"
+    },
+    "0-9375rem": {
+      "$value": 15,
+      "$type": "fontSize"
+    },
+    "1rem": {
+      "$value": 16,
+      "$type": "fontSize"
+    },
+    "1-125rem": {
+      "$value": 18,
+      "$type": "fontSize"
+    },
+    "1-25rem": {
+      "$value": 20,
+      "$type": "fontSize"
+    },
+    "1-5rem": {
+      "$value": 24,
+      "$type": "fontSize"
+    },
+    "1-875rem": {
+      "$value": 30,
+      "$type": "fontSize"
+    },
+    "2rem": {
+      "$value": 32,
+      "$type": "fontSize"
+    },
+    "2-250": {
+      "$value": 36,
+      "$type": "fontSize"
+    }
+  }
+}

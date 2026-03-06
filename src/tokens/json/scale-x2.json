@@ -1,0 +1,146 @@
+{
+  "Padding": {
+    "infinite": {
+      "$value": "{_size.Size-Infinite}",
+      "$type": "spacing"
+    },
+    "none": {
+      "$value": "{_size.0 rem}",
+      "$type": "spacing"
+    },
+    "7XS": {
+      "$value": "{_size.0,063 rem}",
+      "$type": "spacing"
+    },
+    "6XS": {
+      "$value": "{_size.0,125 rem}",
+      "$type": "spacing"
+    },
+    "5XS": {
+      "$value": "{_size.0,25 rem}",
+      "$type": "spacing"
+    },
+    "4XS": {
+      "$value": "{_size.0,375 rem}",
+      "$type": "spacing"
+    },
+    "3XS": {
+      "$value": "{_size.0,5 rem}",
+      "$type": "spacing"
+    },
+    "2XS": {
+      "$value": "{_size.1 rem}",
+      "$type": "spacing"
+    },
+    "XS": {
+      "$value": "{_size.1,25 rem}",
+      "$type": "spacing"
+    },
+    "S": {
+      "$value": "{_size.1,5 rem}",
+      "$type": "spacing"
+    },
+    "M": {
+      "$value": "{_size.1,75 rem}",
+      "$type": "spacing"
+    },
+    "L": {
+      "$value": "{_size.2 rem}",
+      "$type": "spacing"
+    },
+    "XL": {
+      "$value": "{_size.2,25 rem}",
+      "$type": "spacing"
+    },
+    "2XL": {
+      "$value": "{_size.2,625 rem}",
+      "$type": "spacing"
+    },
+    "3XL": {
+      "$value": "{_size.2,75 rem}",
+      "$type": "spacing"
+    },
+    "4XL": {
+      "$value": "{_size.3 rem}",
+      "$type": "spacing"
+    },
+    "5XL": {
+      "$value": "{_size.3,125 rem}",
+      "$type": "spacing"
+    },
+    "6XL": {
+      "$value": "{_size.3,375 rem}",
+      "$type": "spacing"
+    },
+    "7XL": {
+      "$value": "{_size.3,75 rem}",
+      "$type": "spacing"
+    },
+    "8XL": {
+      "$value": "{_size.4,125 rem}",
+      "$type": "spacing"
+    }
+  },
+  "Rounding": {
+    "Round": {
+      "$value": "{⚪Size PLX.Size-Infinite}",
+      "$type": "borderRadius"
+    },
+    "None": {
+      "$value": "{⚪Size PLX.Size-0}",
+      "$type": "borderRadius"
+    },
+    "5XS": {
+      "$value": "{_size.0,375 rem}",
+      "$type": "borderRadius"
+    },
+    "4XS": {
+      "$value": "{_size.0,75 rem}",
+      "$type": "borderRadius"
+    },
+    "3XS": {
+      "$value": "{_size.1,125 rem}",
+      "$type": "borderRadius"
+    },
+    "2XS": {
+      "$value": "{_size.1,5 rem}",
+      "$type": "borderRadius"
+    },
+    "XS": {
+      "$value": "{_size.1,875 rem}",
+      "$type": "borderRadius"
+    },
+    "S": {
+      "$value": "{_size.2,25 rem}",
+      "$type": "borderRadius"
+    },
+    "M": {
+      "$value": "{_size.2,625 rem}",
+      "$type": "borderRadius"
+    },
+    "L": {
+      "$value": "{_size.3 rem}",
+      "$type": "borderRadius"
+    },
+    "XL": {
+      "$value": "{_size.3,375 rem}",
+      "$type": "borderRadius"
+    },
+    "2XL": {
+      "$value": "{_size.3,75 rem}",
+      "$type": "borderRadius"
+    },
+    "3XL": {
+      "$value": "{_size.4,125 rem}",
+      "$type": "borderRadius"
+    },
+    "4XL": {
+      "$value": "{_size.4,5 rem}",
+      "$type": "borderRadius"
+    },
+    "5XL": {
+      "$value": "{_size.4,875 rem}",
+      "$type": "borderRadius"
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "Scaling": {
+    "$value": "Tablet",
+    "$type": "string"
+  },
+  "Size-Infinite": {
+    "$value": 10000000000,
+    "$type": "fontSize"
+  },
+  "0-rem": {
+    "$value": 0,
+    "$type": "fontSize"
+  },
+  "0-063-rem": {
+    "$value": 1,
+    "$type": "fontSize"
+  },
+  "0-125-rem": {
+    "$value": 4,
+    "$type": "fontSize"
+  },
+  "0-25-rem": {
+    "$value": 6,
+    "$type": "fontSize"
+  },
+  "0-375-rem": {
+    "$value": 8,
+    "$type": "fontSize"
+  },
+  "0-5-rem": {
+    "$value": 10,
+    "$type": "fontSize"
+  },
+  "0-625-rem": {
+    "$value": 12,
+    "$type": "fontSize"
+  },
+  "0-75-rem": {
+    "$value": 14,
+    "$type": "fontSize"
+  },
+  "0-875-rem": {
+    "$value": 16,
+    "$type": "fontSize"
+  },
+  "1-rem": {
+    "$value": 18,
+    "$type": "fontSize"
+  },
+  "1-125-rem": {
+    "$value": 20,
+    "$type": "fontSize"
+  },
+  "1-25-rem": {
+    "$value": 22,
+    "$type": "fontSize"
+  },
+  "1-375-rem": {
+    "$value": 24,
+    "$type": "fontSize"
+  },
+  "1-5-rem": {
+    "$value": 26,
+    "$type": "fontSize"
+  },
+  "1-625-rem": {
+    "$value": 28,
+    "$type": "fontSize"
+  },
+  "1-75-rem": {
+    "$value": 30,
+    "$type": "fontSize"
+  },
+  "1-875-rem": {
+    "$value": 32,
+    "$type": "fontSize"
+  },
+  "2-rem": {
+    "$value": 34,
+    "$type": "fontSize"
+  },
+  "2-125-rem": {
+    "$value": 36,
+    "$type": "fontSize"
+  },
+  "2-25-rem": {
+    "$value": 38,
+    "$type": "fontSize"
+  },
+  "2-375-rem": {
+    "$value": 40,
+    "$type": "fontSize"
+  },
+  "2-5-rem": {
+    "$value": 42,
+    "$type": "fontSize"
+  },
+  "2-625-rem": {
+    "$value": 44,
+    "$type": "fontSize"
+  },
+  "2-75-rem": {
+    "$value": 46,
+    "$type": "fontSize"
+  },
+  "2-875-rem": {
+    "$value": 48,
+    "$type": "fontSize"
+  },
+  "3-rem": {
+    "$value": 50,
+    "$type": "fontSize"
+  },
+  "3-125-rem": {
+    "$value": 52,
+    "$type": "fontSize"
+  },
+  "3-25-rem": {
+    "$value": 54,
+    "$type": "fontSize"
+  },
+  "3-375-rem": {
+    "$value": 56,
+    "$type": "fontSize"
+  },
+  "3-5-rem": {
+    "$value": 58,
+    "$type": "fontSize"
+  },
+  "3-625-rem": {
+    "$value": 60,
+    "$type": "fontSize"
+  },
+  "3-75-rem": {
+    "$value": 62,
+    "$type": "fontSize"
+  },
+  "3-875-rem": {
+    "$value": 64,
+    "$type": "fontSize"
+  },
+  "4-rem": {
+    "$value": 66,
+    "$type": "fontSize"
+  },
+  "4-125-rem": {
+    "$value": 68,
+    "$type": "fontSize"
+  },
+  "4-25-rem": {
+    "$value": 70,
+    "$type": "fontSize"
+  },
+  "4-375-rem": {
+    "$value": 72,
+    "$type": "fontSize"
+  },
+  "4-5-rem": {
+    "$value": 74,
+    "$type": "fontSize"
+  },
+  "4-625-rem": {
+    "$value": 76,
+    "$type": "fontSize"
+  },
+  "4-75-rem": {
+    "$value": 78,
+    "$type": "fontSize"
+  },
+  "4-875-rem": {
+    "$value": 80,
+    "$type": "fontSize"
+  },
+  "5-rem": {
+    "$value": 82,
+    "$type": "fontSize"
+  },
+  "5-125-rem": {
+    "$value": 84,
+    "$type": "fontSize"
+  },
+  "5-25-rem": {
+    "$value": 86,
+    "$type": "fontSize"
+  },
+  "5-375-rem": {
+    "$value": 88,
+    "$type": "fontSize"
+  },
+  "5-5-rem": {
+    "$value": 90,
+    "$type": "fontSize"
+  },
+  "5-625-rem": {
+    "$value": 92,
+    "$type": "fontSize"
+  },
+  "5-75-rem": {
+    "$value": 94,
+    "$type": "fontSize"
+  },
+  "5-875-rem": {
+    "$value": 96,
+    "$type": "fontSize"
+  },
+  "6-rem": {
+    "$value": 98,
+    "$type": "fontSize"
+  },
+  "6-125-rem": {
+    "$value": 100,
+    "$type": "fontSize"
+  },
+  "6-25-rem": {
+    "$value": 102,
+    "$type": "fontSize"
+  },
+  "6-375-rem": {
+    "$value": 104,
+    "$type": "fontSize"
+  },
+  "6-5-rem": {
+    "$value": 106,
+    "$type": "fontSize"
+  },
+  "6-625-rem": {
+    "$value": 108,
+    "$type": "fontSize"
+  },
+  "6-75-rem": {
+    "$value": 110,
+    "$type": "fontSize"
+  },
+  "6-875-rem": {
+    "$value": 112,
+    "$type": "fontSize"
+  },
+  "7-rem": {
+    "$value": 114,
+    "$type": "fontSize"
+  },
+  "7-125-rem": {
+    "$value": 116,
+    "$type": "fontSize"
+  },
+  "7-25-rem": {
+    "$value": 118,
+    "$type": "fontSize"
+  },
+  "7-375-rem": {
+    "$value": 120,
+    "$type": "fontSize"
+  },
+  "7-5-rem": {
+    "$value": 122,
+    "$type": "fontSize"
+  },
+  "7-625-rem": {
+    "$value": 124,
+    "$type": "fontSize"
+  },
+  "7-75-rem": {
+    "$value": 126,
+    "$type": "fontSize"
+  },
+  "7-875-rem": {
+    "$value": 128,
+    "$type": "fontSize"
+  },
+  "8-rem": {
+    "$value": 130,
+    "$type": "fontSize"
+  }
+}
